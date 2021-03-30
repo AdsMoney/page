@@ -1,6 +1,7 @@
 body {
     overflow-y: scroll;
     overflow-x: hidden;
+    color: white;
 }
 .Topper {
     margin-top: 120px;
